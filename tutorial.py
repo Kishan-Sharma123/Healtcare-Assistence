@@ -1,2 +1,3 @@
 print("kisna a")
-s = 'hjbdbfkj'
+s = 'hjbdbfdsddddddddddd'
+print(s)
